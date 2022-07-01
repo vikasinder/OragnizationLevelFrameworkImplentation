@@ -27,7 +27,7 @@ public class AccountCreationPageTest extends BaseClass {
 		launchApp(browser); 
 		
 	}
-	
+	//New Cahnges
 	
 	@AfterMethod(groups = {"Smoke","Sanity","Regression"})
 	public void tearDown() {
